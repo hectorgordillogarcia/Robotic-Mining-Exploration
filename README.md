@@ -49,8 +49,8 @@ Robotic-Mining-Exploration/
 
 You can watch the robot in action at the following links:
 
-- [🔗 Video 1](https://www.youtube.com/watch?v=ThW9-Oaerkg))
-- [🔗 Video 2](https://www.youtube.com/watch?v=Gasc9nnEPzw))
+- [🔗 Video 1](https://www.youtube.com/watch?v=ThW9-Oaerkg)
+- [🔗 Video 2](https://www.youtube.com/watch?v=Gasc9nnEPzw)
 - [🔗 Video 3](https://www.youtube.com/watch?v=q--AdVs8ZvI)
 
 ---
